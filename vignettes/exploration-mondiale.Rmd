@@ -1,8 +1,8 @@
 ---
-title: "exploration-mondiale"
+title: "Explorer les données mondiales avec worlddata"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{exploration-mondiale}
+  %\VignetteIndexEntry{Explorer les données mondiales avec worlddata}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
